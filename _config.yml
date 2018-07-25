@@ -26,6 +26,7 @@ navbar-links:
   Về nhóm: "aboutme"
   Tài nguyên:
     - GitHub Pages: "https://github.com/MustacheTuanVu/MustacheTuanVu.github.io/"
+    - Google drive: "https://drive.google.com/drive/folders/1INcb_5-7ZuUjEmegqS323mHoPfxACCOV"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
